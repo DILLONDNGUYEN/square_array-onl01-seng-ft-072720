@@ -1,4 +1,5 @@
 # your code here
+build a method, square_array
 
 
 def square_array(array)
