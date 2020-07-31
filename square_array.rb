@@ -12,6 +12,6 @@
 
 
 def square_array(numbers)
-   new_numbers = numbers.collect{|num| num ** 2}
+   new_numbers = numbers.collect{|numbers| numbers ** 2}
    return new_numbers
  end
