@@ -7,6 +7,6 @@
 
 
 def square_array(array)
-  new_numbers = array*array
+  new_numbers = []
   
 end
