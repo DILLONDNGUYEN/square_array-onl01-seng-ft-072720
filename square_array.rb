@@ -1,3 +1,7 @@
+# your code here
+
+
 def square_array(array)
-  # your code here
+  new_numbers = array*array
+  
 end
